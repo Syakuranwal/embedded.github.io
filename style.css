@@ -121,5 +121,13 @@ header {
   color: #00a2c6;
 }
 section {
-  padding-top: 5rem;
+  padding-top: 2rem;
+}
+
+#card {
+  padding-top: 2rem;
+}
+
+.aside {
+  display: inline;
 }
